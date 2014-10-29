@@ -1,0 +1,13 @@
+PODS:
+  - pop (1.0.7)
+  - RCLighting (0.1):
+    - pop
+
+DEPENDENCIES:
+  - RCLighting
+
+SPEC CHECKSUMS:
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  RCLighting: eb725aa0d4ece8b43b80123e2cf2734d0322a478
+
+COCOAPODS: 0.34.4
